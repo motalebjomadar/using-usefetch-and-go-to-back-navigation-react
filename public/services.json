@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "service": "Premium Support",
+        "warranty": "2 years",
+        "description": "24/7 customer support with priority handling"
+    },
+    {
+        "id": 2,
+        "service": "Extended Warranty",
+        "warranty": "1 year",
+        "description": "Additional warranty coverage for your device"
+    },
+    {
+        "id": 3,
+        "service": "Accidental Damage Protection",
+        "warranty": "6 months",
+        "description": "Coverage for accidental damage to your device"
+    },
+    {
+        "id": 4,
+        "service": "On-Site Repair",
+        "warranty": "3 years",
+        "description": "On-site repair service for quick fixes"
+    },
+    {
+        "id": 5,
+        "service": "Next Business Day Replacement",
+        "warranty": "1 year",
+        "description": "Next business day replacement for faulty devices"
+    },
+    {
+        "id": 6,
+        "service": "Software Support",
+        "warranty": "2 years",
+        "description": "Comprehensive software troubleshooting and support"
+    },
+    {
+        "id": 7,
+        "service": "Hardware Upgrade",
+        "warranty": "1 year",
+        "description": "Upgrade your hardware components with ease"
+    },
+    {
+        "id": 8,
+        "service": "Virus Removal",
+        "warranty": "3 months",
+        "description": "Professional virus and malware removal service"
+    },
+    {
+        "id": 9,
+        "service": "Data Recovery",
+        "warranty": "6 months",
+        "description": "Recover lost or corrupted data from your device"
+    },
+    {
+        "id": 10,
+        "service": "Cloud Backup",
+        "warranty": "1 year",
+        "description": "Secure cloud backup service for your data"
+    },
+    {
+        "id": 11,
+        "service": "Network Setup",
+        "warranty": "1 year",
+        "description": "Professional network setup and configuration"
+    },
+    {
+        "id": 12,
+        "service": "Consultation Service",
+        "warranty": "3 months",
+        "description": "Expert consultation for your tech needs"
+    },
+    {
+        "id": 13,
+        "service": "Training Sessions",
+        "warranty": "1 year",
+        "description": "Personalized training sessions for your team"
+    },
+    {
+        "id": 14,
+        "service": "Website Development",
+        "warranty": "2 years",
+        "description": "Custom website development and maintenance"
+    },
+    {
+        "id": 15,
+        "service": "SEO Optimization",
+        "warranty": "6 months",
+        "description": "Improve your website's search engine ranking"
+    },
+    {
+        "id": 16,
+        "service": "Graphic Design",
+        "warranty": "1 year",
+        "description": "Professional graphic design services for your brand"
+    },
+    {
+        "id": 17,
+        "service": "Content Creation",
+        "warranty": "6 months",
+        "description": "High-quality content creation for your business"
+    },
+    {
+        "id": 18,
+        "service": "Social Media Management",
+        "warranty": "1 year",
+        "description": "Manage and grow your social media presence"
+    },
+    {
+        "id": 19,
+        "service": "IT Infrastructure Setup",
+        "warranty": "2 years",
+        "description": "Complete IT infrastructure setup and support"
+    },
+    {
+        "id": 20,
+        "service": "App Development",
+        "warranty": "1 year",
+        "description": "Custom app development for Android and iOS"
+    }
+]
